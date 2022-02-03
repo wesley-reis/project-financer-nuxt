@@ -17,7 +17,7 @@
                 <div class="flex space-x-4">
                   <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
                   <nuxt-link
-                    :to="{ name: 'index' }"
+                    to="/"
                     class="
                       text-gray-300
                       hover:bg-gray-700 hover:text-white
@@ -31,7 +31,7 @@
                   >
 
                   <nuxt-link
-                    :to="{ name: 'categories' }"
+                    to="categories"
                     class="
                       text-gray-300
                       hover:bg-gray-700 hover:text-white
