@@ -55,6 +55,48 @@
       "description": "Pagamento de inposto",
       "categoryId": "3",
       "id": 8
+    },
+    {
+      "date": "2022-02-06",
+      "amount": "35",
+      "description": "teste B",
+      "categoryId": "4",
+      "id": 9
+    },
+    {
+      "date": "2022-02-12",
+      "amount": "-20",
+      "description": "teste",
+      "categoryId": 2,
+      "id": 10
+    },
+    {
+      "date": "2022-02-12",
+      "amount": "1000",
+      "description": "Pagamento de cartão de credito",
+      "categoryId": "2",
+      "id": 11
+    },
+    {
+      "date": "2022-01-07",
+      "amount": "50",
+      "description": "Uber",
+      "categoryId": "4",
+      "id": 12
+    },
+    {
+      "date": "2022-02-12",
+      "amount": "7",
+      "description": "Curso Nuxt2",
+      "categoryId": "2",
+      "id": 13
+    },
+    {
+      "date": "2022-02-12",
+      "amount": "8",
+      "description": "Curso Teste",
+      "categoryId": "2",
+      "id": 14
     }
   ],
   "categories": [
